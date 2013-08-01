@@ -25,6 +25,7 @@
 
 #backstageButton {
 	overflow: hidden;
+	top: 18px;
 }
 
 #backstageButton #backstageShow,

@@ -89,5 +89,5 @@ class Serialization(WikiSerialization):
         tag = "<!--POST-SCRIPT-START-->"
         if not download:
             wiki = wiki.replace(tag, '<script type="text/javascript" '
-                'src="/bags/common/tiddlers/backstage.js"></script> %s' % tag)
+                'src="/bags/common/tiddlers/tsbar.js"></script> %s' % tag)
         return wiki

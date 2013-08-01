@@ -92,7 +92,6 @@ tags: excludeLists excludeSearch excludeMissing
 		<div class="clear"></div>
 	</div>
 </div>
-<script src='/bags/common/tiddlers/backstage.js'></script>
 <script src='/bags/common/tiddlers/jquery.js'></script>
 <script src='/bags/tiddlyspace/tiddlers/chrjs'></script>
 <script src='/bags/common/tiddlers/chrjs.space'></script>
@@ -104,5 +103,6 @@ tags: excludeLists excludeSearch excludeMissing
 <script src="/bags/common/tiddlers/ts.js"></script>
 <script src="/status.js"></script>
 <script src="/bags/common/tiddlers/space.js"></script>
+<script src='/bags/common/tiddlers/tsbar.js'></script>
 </body>
 </html>

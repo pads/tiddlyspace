@@ -4,7 +4,6 @@ type: text/html
 <html>
 <head>
 	<title>Sign up</title>
-	<script type='text/javascript' src='/bags/common/tiddlers/backstage.js'></script>
 	<link href="/bags/common/tiddlers/profile.css" type='text/css' rel='stylesheet' >
 </head>
 <body>
@@ -30,6 +29,7 @@ type: text/html
 <script type='text/javascript' src='/bags/common/tiddlers/chrjs.users'></script>
 <script src="/bags/common/tiddlers/ts.js" type="text/javascript" charset="utf-8"></script>
 <script src="/status.js"></script>
+<script type='text/javascript' src='/bags/common/tiddlers/tsbar.js'></script>
 <script type="text/javascript">
         ts.init(function() {}, { space: "" });
 </script>
